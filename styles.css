@@ -2,17 +2,17 @@ body {
   background-color: pink;
 }
 
-.row > div:first-child {
+.first-col {
   background-color: #000;
   color: #fff;
 }
 
-.row > div:last-child {
+.second-col {
   background-color: rgb(82, 82, 82);
   color: #fff;
 }
 
-.row > div:last-child {
+.third-col {
   background-color: #fff;
   color: #000;
 }
